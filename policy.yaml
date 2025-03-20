@@ -1,0 +1,7 @@
+sources:
+  - policy:
+      - "."
+
+configuration:
+  include:
+    - '@all'
